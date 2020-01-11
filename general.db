@@ -1,4 +1,4 @@
-.field minimal_code_version 3
+.field minimal_code_version 31
 .field minimal_andromeda_module_ver 1
-.field latest_app_code_version 4
+.field latest_app_code_version 32
 .field enable_ads on
